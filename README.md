@@ -259,7 +259,8 @@ TOTAL TIME =  1.2ms
 FREQUENCY = 1/(TOTAL TIME)=833.33Hz
 
 ### OUTPUT SCREENSHOTS OF PROTEUS:
-![org](https://github.com/sujigunasekar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559822/a42b85a7-772b-45b7-9a04-60ea81530c6b)
+![322910903-bef6847b-fffe-4835-bac5-41fe4d58f01a](https://github.com/sujigunasekar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559822/59b4d98a-b640-443a-9058-f42283ac4c73)
+
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
